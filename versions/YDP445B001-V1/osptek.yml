@@ -1,0 +1,10 @@
+id: YDP445B001-V1
+category: displays
+size: "4.45"
+panel: tft
+resolution: 480x854
+interface: [mipi]
+driver: GC9503CV
+touch: null
+outline: 60.0 x 109.0 x 2.15 mm
+active_area: 55.44 x 98.38 mm
