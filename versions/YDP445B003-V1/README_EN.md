@@ -46,6 +46,7 @@
 | Datasheet | [`YDP445B003-V1.pdf`](./datasheets/YDP445B003-V1.pdf) |
 | CAD file | [`YDP445B003-V1.dwg`](./cad/YDP445B003-V1.dwg) |
 | CAD file | [`YDP445B003-V1_外形图.pdf`](./cad/YDP445B003-V1_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
+| Adapter materials | [`4.45寸屏幕转接板.pdf`](./adapter/4.45%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
 
 ## Repository layout
 
@@ -58,7 +59,8 @@ display-tft-4.45inch-480x854/ # repo root (nav: ../../README_EN.md; sample proje
         ├── osptek.yml
         ├── images/
         ├── datasheets/       # product datasheet + driver/touch IC datasheets
-        └── cad/              # outline/cover CAD
+        ├── cad/              # outline/cover CAD
+        └── adapter/          # adapter board materials + photos
 ```
 
 ## Buy
