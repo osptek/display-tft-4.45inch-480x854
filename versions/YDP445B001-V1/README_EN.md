@@ -44,6 +44,8 @@
 | ---- | ---- |
 | Datasheet | [`GC9503CV DataSheet V1.0(1).pdf`](./datasheets/GC9503CV%20DataSheet%20V1.0%281%29.pdf) |
 | Datasheet | [`YDP445B001-V1.pdf`](./datasheets/YDP445B001-V1.pdf) |
+| CAD file | [`YDP445B001-V1.dwg`](./cad/YDP445B001-V1.dwg) |
+| Adapter materials | [`4.45寸屏幕转接板.pdf`](./adapter/4.45%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
 
 ## Repository layout
 
@@ -55,7 +57,9 @@ display-tft-4.45inch-480x854/ # repo root (nav: ../../README_EN.md; sample proje
         ├── README_EN.md
         ├── osptek.yml
         ├── images/
-        └── datasheets/       # product datasheet + driver/touch IC datasheets
+        ├── datasheets/       # product datasheet + driver/touch IC datasheets
+        ├── cad/              # outline/cover CAD
+        └── adapter/          # adapter board materials + photos
 ```
 
 ## Buy
