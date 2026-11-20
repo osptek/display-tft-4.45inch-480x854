@@ -46,6 +46,7 @@
 | 规格文档 | [`YDP445B003-V1.pdf`](./datasheets/YDP445B003-V1.pdf) |
 | CAD 图纸 | [`YDP445B003-V1.dwg`](./cad/YDP445B003-V1.dwg) |
 | CAD 图纸 | [`YDP445B003-V1_外形图.pdf`](./cad/YDP445B003-V1_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
+| 转接板资料 | [`O1CN0107vys5237mLNtVsbz_!!754167209-恢复的.png`](./adapter/O1CN0107vys5237mLNtVsbz_%21%21754167209-%E6%81%A2%E5%A4%8D%E7%9A%84.png) |
 | 转接板资料 | [`4.45寸屏幕转接板.pdf`](./adapter/4.45%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
 
 ## 仓库结构
