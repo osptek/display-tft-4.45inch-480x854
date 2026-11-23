@@ -38,6 +38,7 @@
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
 | YDP445B001-V1 | <img alt="YDP445B001-V1" src="./versions/YDP445B001-V1/images/product.png" width="120" /> | GC9503CV | — | MIPI | [完整资料](./versions/YDP445B001-V1/) |
+| YDP445B002-V1 | — | GC9503 | — | RGB | [完整资料](./versions/YDP445B002-V1/) |
 | YDP445B003-V1 | <img alt="YDP445B003-V1" src="./versions/YDP445B003-V1/images/product.png" width="120" /> | ST7701S | — | MIPI | [完整资料](./versions/YDP445B003-V1/) |
 
 ---

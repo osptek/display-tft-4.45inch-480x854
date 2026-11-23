@@ -38,6 +38,7 @@ Repo id: `display-tft-4.45inch-480x854`
 | Version | Image | Driver IC | Touch IC | Interface | Full docs |
 | ------- | ----- | --------- | -------- | --------- | --------- |
 | YDP445B001-V1 | <img alt="YDP445B001-V1" src="./versions/YDP445B001-V1/images/product.png" width="120" /> | GC9503CV | — | MIPI | [Full docs](./versions/YDP445B001-V1/) |
+| YDP445B002-V1 | — | GC9503 | — | RGB | [Full docs](./versions/YDP445B002-V1/) |
 | YDP445B003-V1 | <img alt="YDP445B003-V1" src="./versions/YDP445B003-V1/images/product.png" width="120" /> | ST7701S | — | MIPI | [Full docs](./versions/YDP445B003-V1/) |
 
 ---
